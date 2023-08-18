@@ -1,5 +1,6 @@
 {
   "name": "hackathon-deportivo",
+  "homepage": "https://2022matias.github.io/Hackathon-Deportivo-WebData-Warriors",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

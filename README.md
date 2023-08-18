@@ -1,4 +1,4 @@
-[**¡Accede a la visualización aquí!**](https://2022matias.github.io/Hackathon-Deportivo-WebData-Warriors/)
+[**¡Accede a la visualización aquí!**](https://2022matias.github.io/Hackathon-Deportivo-WebData-Warriors/) {: style="font-size: 24px; color: red;"}
 
 # Análisis Estadístico FIFA: Hackathon Deportivo TripleTen
 

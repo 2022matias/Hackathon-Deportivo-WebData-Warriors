@@ -70,3 +70,14 @@ Extendemos nuestro agradecimiento al equipo de TripleTen por organizar este Hack
 |[Influencia del portero en rondas de penaltis](https://github.com/IreneRA/Hackaton-Tripleten/blob/goalkeeper-impact/Influencia_portero.ipynb)| Estudiar la contribución y efectividad de los porteros durante las rondas de penaltis y determinar cuánto impactan en el resultado final de dichas rondas.|
 |[Modelo predictivo](https://github.com/IreneRA/Hackaton-Tripleten/blob/predictive-model/Modelo_predictivo.ipynb)| Creación de un modelo que predice el resultado de un partido y comparación con las predicciones basadas en el ranking FIFA.|
 
+## BADGES de la Hackathon
+
+**Insignia por participación**
+
+![Insignia participación en la hackathon](./src/image/BadgesParticipante.jpeg)
+
+**Insignia como proyecto ganador de la Hackaton**
+
+![Insignia Ganadores Hackathon](./src/image/BadgesGanador1.jpeg)
+
+

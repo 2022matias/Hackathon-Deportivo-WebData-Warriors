@@ -75,6 +75,7 @@ Extendemos nuestro agradecimiento al equipo de TripleTen por organizar este Hack
 **Insignia por participación**
 
 ![Insignia participación en la hackathon](./src/image/BadgesParticipante.jpeg)
+(./src/image/BadgesParticipante.jpeg)
 
 **Insignia como proyecto ganador de la Hackaton**
 
